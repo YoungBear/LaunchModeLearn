@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LaunchMode</string>
+    <string name="standard_name">standard</string>
+    <string name="single_top_name">singleTop</string>
+    <string name="single_task_name">singleTask</string>
+    <string name="single_instance_name">singleInstance</string>
+</resources>
